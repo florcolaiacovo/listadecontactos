@@ -1,0 +1,13 @@
+.form{
+    position: relative;
+}
+.form input{
+    padding-left: 15 px !important;
+    margin: 30px;
+}
+
+.lista{
+    display: grid;
+    width: 60vw;
+    grid-template-columns: 3fr 1fr 1fr;
+}
